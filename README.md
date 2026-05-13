@@ -1,25 +1,113 @@
-<h1 align="center">Hi 👋, I'm samit2059</h1>
-<h3 align="center">A passionate Frontend Developer from Nepal</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samit2059&label=Profile%20views&color=0e75b6&style=flat" alt="samit2059" /> </p>
+```
+███████╗ █████╗ ███╗   ███╗██╗████████╗
+██╔════╝██╔══██╗████╗ ████║██║╚══██╔══╝
+███████╗███████║██╔████╔██║██║   ██║   
+╚════██║██╔══██║██║╚██╔╝██║██║   ██║   
+███████║██║  ██║██║ ╚═╝ ██║██║   ██║   
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝  
+```
 
-- 🔭 I’m currently working on **Notes Project**
+# Hi 👋, I'm samit2059
 
-- 🌱 I’m currently learning **React Js, Tailwind**
+### A passionate Frontend Developer from Nepal 🇳🇵
 
-- 💬 Ask me about **react**
+<img src="https://komarev.com/ghpvc/?username=samit2059&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="samit2059" />
 
-- 📫 How to reach me **shresthasamit40@gmail.com**
+</div>
 
-- ⚡ Fun fact **Sky is falling apart**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 About Me
+
+```yaml
+name: samit2059
+location: Nepal 🇳🇵
+current_project: E-commerce functional Website
+currently_learning:
+  - React JS
+  - Tailwind CSS
+  - Next JS
+ask_me_about: React
+contact: shresthasamit40@gmail.com
+fun_fact: "Never the Same as before ⚡"
+```
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samit2059&show_icons=true&locale=en&layout=compact" alt="samit2059" /></p>
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,ps,c,cpp" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samit2059&show_icons=true&locale=en" alt="samit2059" /></p>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/samit2059">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=samit2059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Samit2059&theme=onedark-duo&border_radius=5.5" alt="GitHub Streak" /></a>
+</div> -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=samit2059&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF" alt="samit2059 streak stats" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samit2059&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samit2059&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthasamit40@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samit2059)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"Never the Same as before"*
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer)
+
+</div>
