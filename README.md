@@ -25,7 +25,7 @@
 ```yaml
 name: samit2059
 location: Nepal 🇳🇵
-current_project: E-commerce functional Website
+current_project: Auction Hall functional Website
 currently_learning:
   - React JS
   - Tailwind CSS
@@ -48,7 +48,7 @@ fun_fact: "Never the Same as before ⚡"
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
 </p>
 
 ### 🧰 Tools & Others
