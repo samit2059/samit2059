@@ -43,7 +43,7 @@ fun_fact: "Never the Same as before ⚡"
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js, typescript,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js, ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Database
